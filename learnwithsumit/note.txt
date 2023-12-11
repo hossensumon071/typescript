@@ -1,0 +1,24 @@
+What is typescript?
+. Superset of Javacript created by Microsoft (kono ekta jinish ache take niye jodi mane tar shate jodi kono kichu add kore r ekta boro jinish banano hoi tahole boro jinish ta ke chuto jinish tar superset bola hoi. tar mane borto jinish tar maje chuto jinish ta alreadey ache )
+. Allows static strict typing (shobcheye important jinish jei ta amader ke diyeche sei ta hocche javascript e type add kore diyeche. like amra jokon JS kono varibale declare kori tokon ki amra bole dei aita integer naki string amra boli na karon JS ekta dynamically typed language. ei type na bolar karone interprise level er application e bes kichu problem face korte hoi  )
+. Extra features - interfaces, enums, tuples, generics
+Supports modern features (arrow function, let, const)
+.Based on the >NET harmony specification 
+
+
+
+
+
+2. whats wrong with Javacript
+. Not suitable for large application 
+. lacks strong typing 
+. werid inheritance, unfamiliar syntax 
+. Only error during runtime 
+. Suffers type coercion (amra jani je JS e type niye koto boro problem er face korte hoi like undiefined ek rokom null r ekrokom tarpor string er shate abr integer jog kora jai mane ekta mixture like amake muksto korte hoi je ekta string er shate ekta integer jog korle ki hobe so ekta boolean er shate jodi ami ekta integer lagai tahole ki hobe )
+
+
+3. BENEFIST OF TYPESCRIPT 
+. typescript = javascript 
+. compiles to javascript - runs everywhere 
+. Familiar OO programming 
+. New Features work everywhere 
